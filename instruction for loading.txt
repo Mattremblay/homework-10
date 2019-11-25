@@ -1,0 +1,1 @@
+To install the package, write the command function in the terminal:  pip3 install data1mathieutremblay 
